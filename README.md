@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=300&section=header&text=Mayank%20Raj&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Data%20Scientist%20|%20Problem%20Solver&descAlignY=55&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=300&section=header&text=Mayank%20Raj&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Data%20Scientist&descAlignY=55&descAlign=62" />
 </div>
 
 <!-- Profile Banner -->
@@ -85,4 +85,5 @@ I bridge the gap between **scalable web architecture** and **data-driven decisio
   </a>
 
 </div>
+
 
