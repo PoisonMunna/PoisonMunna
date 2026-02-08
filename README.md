@@ -60,10 +60,10 @@ I bridge the gap between **scalable web architecture** and **data-driven decisio
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **Crypto Portfolio Manager** | `FastAPI` `React` `Monte Carlo` | [cite_start]A full-stack manager that uses **Monte Carlo simulations** and **Sharpe Ratio** to generate optimal portfolios and monitor risk in real-time[cite: 19, 20]. |
-| **Resume Screening System** | `Node.js` `OAuth` `AI` | [cite_start]An intelligent hiring platform with **AI-based applicant scoring**, Google OAuth, and role-based access to reduce hiring bias[cite: 30, 32]. |
-| **RPS Graph Edition** | `JS` `Graph Theory` `AI` | [cite_start]A strategic game using a **Directed Graph** for rule evaluation and a **Frequency Tree-based AI** that learns player patterns[cite: 106, 107]. |
-| **Cyber Process** | `OOP` `Data Structures` | [cite_start]An interactive visualizer for **Stack (LIFO)** and **Queue (FIFO)** operations to simulate real-time memory data flow[cite: 101, 102]. |
+| **Crypto Portfolio Manager** | `FastAPI` `React` `Monte Carlo` | A full-stack manager that uses **Monte Carlo simulations** and **Sharpe Ratio** to generate optimal portfolios and monitor risk in real-time. |
+| **Resume Screening System** | `Node.js` `OAuth` `AI` | An intelligent hiring platform with **AI-based applicant scoring**, Google OAuth, and role-based access to reduce hiring bias. |
+| **RPS Graph Edition** | `JS` `Graph Theory` `AI` | A strategic game using a **Directed Graph** for rule evaluation and a **Frequency Tree-based AI** that learns player patterns. |
+| **Cyber Process** | `OOP` `Data Structures` | An interactive visualizer for **Stack (LIFO)** and **Queue (FIFO)** operations to simulate real-time memory data flow. |
 
 ---
 
@@ -85,6 +85,7 @@ I bridge the gap between **scalable web architecture** and **data-driven decisio
   </a>
 
 </div>
+
 
 
 
