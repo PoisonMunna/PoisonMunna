@@ -11,7 +11,7 @@
 
 <h1 align="center">Hi there, I'm Mayank 👋 (PoisonMunna)</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=Aspiring+Full-Stack+%2B+AI%2FML+Engineer;B.Tech+CSE+(Data+Science)+Student;Freelance+Web+%26+App+Developer;Always+learning+%26+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=Aspiring+Full-Stack+%2B+AI%2FML+Engineer;B.Tech+CSE+(Data+Science)+Student;Always+learning+%26+building" alt="Typing SVG" />
 </p>
 
 ### 🚀 About Me
@@ -90,6 +90,7 @@ I bridge the gap between **scalable web architecture** and **data-driven decisio
   </a>
 
 </div>
+
 
 
 
