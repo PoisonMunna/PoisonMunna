@@ -69,9 +69,9 @@ I bridge the gap between **scalable web architecture** and **data-driven decisio
 
 ### ⚡ Coding Profiles
 
-* [cite_start]**LeetCode:** 300+ Problems Solved [cite: 111]
-* [cite_start]**GeeksForGeeks:** 160+ Days Streak [cite: 113]
-* [cite_start]**HackerRank:** 5 Star (Python/Problem Solving) [cite: 38]
+* **LeetCode:** 300+ Problems Solved 
+* **GeeksForGeeks:** 160+ Days Streak 
+* **HackerRank:** 5 Star (Python/Problem Solving) 
 
 <div align="center">
   <a href="https://linkedin.com/in/mayank-raj-067248341">
@@ -85,6 +85,7 @@ I bridge the gap between **scalable web architecture** and **data-driven decisio
   </a>
 
 </div>
+
 
 
 
