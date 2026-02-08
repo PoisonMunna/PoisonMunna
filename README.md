@@ -2,6 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=300&section=header&text=Mayank%20Raj&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Data%20Scientist%20|%20Problem%20Solver&descAlignY=55&descAlign=62" />
 </div>
 
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="MasterHead" align="center" />
+</p>
+
 <div align="center">
 
 ### 🚀 About Me
@@ -78,4 +83,5 @@ I bridge the gap between **scalable web architecture** and **data-driven decisio
   <a href="https://leetcode.com/u/Mayank_Posion/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
+
 </div>
