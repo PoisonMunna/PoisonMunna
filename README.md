@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-[cite_start]I am a **Computer Science Undergraduate** (Specialization in Data Science) with a **9.89 CGPA**[cite: 42].  
+I am a **Computer Science Undergraduate** (Specialization in Data Science) with a **9.89 CGPA**.  
 I bridge the gap between **scalable web architecture** and **data-driven decision making**. My expertise lies in building secure full-stack applications and optimizing complex algorithms using data science techniques.
 
 ---
@@ -85,5 +85,6 @@ I bridge the gap between **scalable web architecture** and **data-driven decisio
   </a>
 
 </div>
+
 
 
