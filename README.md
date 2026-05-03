@@ -187,13 +187,6 @@
 
 <div align="center">
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-<!-- Typing Footer -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=30&lines=Thanks+for+visiting!+%F0%9F%9A%80;Keep+coding+%E2%9C%A8;See+you+in+the+next+commit+%F0%9F%92%BB" alt="Footer Text" />
-</p>
 <!-- Matrix Code Rain -->
 <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="Matrix" width="100%" />
 
