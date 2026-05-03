@@ -11,15 +11,14 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I%27m+Mayank+Raj+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Data+Scientist+%26+ML+Engineer+%F0%9F%A4%96;Data+Analyst+%26+Visualization+%F0%9F%93%8A;Building+things+that+matter+%F0%9F%92%A1" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
-
-<br>
+<br> <br>
 <!-- Option A - Futuristic Coding Scene -->
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
 <!-- Animated Divider -->
-
+<br><br>
 <!-- About Me Section with GIF -->
 <table align="center">
   <tr>
