@@ -159,53 +159,41 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
 
 ## 📈 GitHub Stats
-
+ 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=PoisonMunna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&cache_seconds=1800" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" height="170"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoisonMunna&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8&cache_seconds=1800" height="170"/>
 <br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="70%"/>
-
-</div>
+<img src="https://streak-stats.demolab.com?user=PoisonMunna&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="70%"/>
 </div>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-<!-- Option C - Glowing Pulse Line -->
-
+---
+ 
 ## 🏆 GitHub Trophies
-
+ 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=your-github&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" />
-
+<img src="https://github-profile-trophy.vercel.app/?username=PoisonMunna&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" />
 </div>
-
-
+---
+ 
 ## 🐍 Contribution Snake
-
+ 
 <div align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-github/your-github/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your-github/your-github/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/your-github/your-github/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PoisonMunna/PoisonMunna/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PoisonMunna/PoisonMunna/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/PoisonMunna/PoisonMunna/output/github-snake.svg" />
 </picture>
-
 </div>
-
-
-
-
+---
+ 
 ## 💻 Coding Activity
-
+ 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PoisonMunna&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&hide_border=true" width="95%"/>
 </div>
+
 
 
 
