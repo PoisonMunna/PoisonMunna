@@ -89,6 +89,21 @@ I bridge the gap between **scalable web architecture** and **data-driven decisio
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 
+  ## 🎯 Activity Dashboard
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=radical&hide_border=true&hide_title=true&bg_color=0D1117" width="400" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&theme=radical&hide_border=true&layout=compact&bg_color=0D1117" width="400" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 </div>
 
 
