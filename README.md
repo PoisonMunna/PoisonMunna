@@ -89,21 +89,31 @@ I bridge the gap between **scalable web architecture** and **data-driven decisio
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 
-  ## 🎯 Activity Dashboard
+## 📅 Contribution Counter
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/your-github/your-github/main/assets/counter.svg" width="600" />
+</div>
+
+<!-- Option: Manual counter -->
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=radical&hide_border=true&hide_title=true&bg_color=0D1117" width="400" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&theme=radical&hide_border=true&layout=compact&bg_color=0D1117" width="400" />
-      </td>
+      <th>📆 Last Week</th>
+      <th>📆 Last Month</th>
+      <th>📆 Total</th>
+    </tr>
+    <tr>
+      <td align="center"><h2>12</h2>commits</td>
+      <td align="center"><h2>47</h2>commits</td>
+      <td align="center"><h2>1,234</h2>commits</td>
+    </tr>
+    <tr>
+      <td align="center">⭐ 2 stars</td>
+      <td align="center">🔀 5 PRs</td>
+      <td align="center">🐛 8 issues</td>
     </tr>
   </table>
-</div>
-
 </div>
 
 
