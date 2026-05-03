@@ -27,6 +27,7 @@ I bridge the gap between **scalable web architecture** and **data-driven decisio
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+
 <!-- Express - Gray Glow Border -->
 ![Express](https://img.shields.io/badge/Express-1a1a1a?style=flat-square&logo=express&logoColor=aaaaaa&color=1a1a1a&labelColor=1a1a1a)
 
