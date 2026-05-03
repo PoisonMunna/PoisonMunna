@@ -8,7 +8,7 @@
 
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Mayank+Raj+👋;Full+Stack+Developer+🚀;Data+Scientist+%26+ML+Engineer+🤖;Data+Analyst+%26+Visualization+📊;Building+things+that+matter+💡" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I%27m+Mayank+Raj+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Data+Scientist+%26+ML+Engineer+%F0%9F%A4%96;Data+Analyst+%26+Visualization+%F0%9F%93%8A;Building+things+that+matter+%F0%9F%92%A1" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
