@@ -1,4 +1,4 @@
-<!-- Animated Banner -->
+<!-- Animated Banner --> 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=180&section=header&text=Mayank%20Raj&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20(Full%20Stack%20Developer%20%7C%20Data%20Scientist%20%7C%20Data%20Analyst)&descAlignY=55&descSize=16" width="100%"/>
 
 <div align="center">
