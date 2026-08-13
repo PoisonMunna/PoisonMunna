@@ -180,7 +180,7 @@
 <div align="center">
 
 <!-- Matrix Code Rain -->
-<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="Matrix" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="Matrix" width="80%" />
 
 
 *"Data is the new oil, and code is the engine that runs the world."* 🚀
